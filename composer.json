@@ -1,0 +1,19 @@
+{
+  "name": "bbn/appui-people",
+  "description": "People interface for APPUI",
+  "keywords": ["people", "person","appui"],
+  "homepage": "https://github.com/nabab/ide-people",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Nabet",
+      "email": "thomas.nabet@gmail.com",
+      "homepage": "https://bbn.solutions",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "bbn/bbn": "dev-master"
+  }
+}
